@@ -1,0 +1,5 @@
+Data: 06-06-2021; Categoria :Vitto; Descrizione: Consulenza; Importo: 100;
+Data: 07-06-2021; Categoria :Viaggio; Descrizione: Consulenza; Importo: 300;
+Data: 08-06-2021; Categoria :Alloggio; Descrizione: Consulenza; Importo: 1001;
+Data: 06-06-2021; Categoria :Altro; Descrizione: Consulenza; Importo: 500;
+Data: 10-06-2021; Categoria :Vitto; Descrizione: Consulenza; Importo: 2500;
